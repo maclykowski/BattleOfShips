@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BattleOfShips/2.0.0": {
+        "runtime": {
+          "BattleOfShips.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleOfShips/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
